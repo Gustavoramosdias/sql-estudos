@@ -1,3 +1,3 @@
 ## progresso SQL
-dia_atual: 1
-ultimo_tema:
+dia_atual: 2
+ultimo_tema: SELECT, WHERE, ORDER BY (filtros, operadores, aliases)
