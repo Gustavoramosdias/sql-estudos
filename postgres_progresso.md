@@ -1,3 +1,3 @@
-licao_atual: 2
-tema_atual: ORDER BY, LIMIT, OFFSET e aliases de coluna
+licao_atual: 3
+tema_atual: GROUP BY com uma coluna
 mes_atual: 1
